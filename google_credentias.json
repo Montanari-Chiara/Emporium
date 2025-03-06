@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nuovo-presto",
+  "private_key_id": "b57c866a6e4229211c4d283c6ed04b05a6585f1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCNDinBD8CcEn5B\nxYn1uIx+ai0Y4OIMPvOJtKY1d9quKWP6tVpZABkOfAp6yuHdpcQ/0yDRx6EVIGJh\nTA1LMJmjwNMY+pm9tkB8iZBgjjvOj0vgxc8GoUX27UK1IiY6tU775YsxoDTJL9nY\nm4/aovV0qX4n6ZDmhAeXMRlL81xprkP27wMLHRdxqmOXINZY8/xQuwkwetixqsQK\nAOALGAxpDMQG1DStm4e43Zn6ldbczGExZfrriajp/bNPsaD4hLcvYwTAFR6uihLx\nLqeL6deEjP78f7ilC/B5Y7OIbV+9rkp6ieTwyJ7bCl18QhMjc1l1r3EYBdd3fx8E\naj7rd8pLAgMBAAECggEAFuLw6GfPZyNjA/XyvAFNHmfI2GwIkVcXecTrYOqI+1Aw\n7ilFtwIajqyWoLTRb/6o+Hgfr5n163EdNU87KvOAQj8ToU5r6omrLem+GMSLNKkw\ndRBzVk6NhRKbC7u2OzlWzu1AJ/WoCuquLISVEzL0o5CqrPwrLBPJDYGEarvaRzUn\nEIann+nsS1+10/y/VnndlNY/13WkjxZq/4LoEPQATz/U3qjOMZUxvzwRQOMCi32x\ns4MkSv/hkfdOB1wS9Ds/ZyDGYUL2u1X5KjuBbkxb5BKaxo6TgOFLbtuK5s+lBwoD\nnpHhLJ2Yfkfrzavq/O88+/SaSqqbg9GtliZ7VWeMxQKBgQC2vtV4pQpY/8kvXJBN\nLcbsGozDURPVTM24Y4t9eMSEJI0hVLlnnaUuxdyL7vKcw12+FtxMuXRcnFubUsV5\n38zgsdmVz35yD9vEVXTaOwdNGNr6uodm/6m0+qgvMBGmR5d5S95fZOsWSeuyBPo9\nNxeVWiz1D4qAJpVp1L9DHlaE3wKBgQDFmSDR08HSxNdv0kIqEU19o5fQFNZALW6A\n9OikPThVWvHqf8vKdweKfzuLhlQqsQBxHom7uOkF0NUGMVS58iIgB6+m6bgN4xjB\nB/lqeCTf2hpQBHNEjOR1MuWzsR8GCfrf2pnCtWl9cn+nQCfolbg6PPWqKoatDGQn\nnj35GHmcFQKBgCUmeGk1S/w5y6F4NNGry7O11gXi1qBXI78nZXUVdwXSFGrBOYvJ\n7YmrqaE8609ZHBaHuTNTxEcLdkgGNKUJDTJklXIyI2d2t9ua781pkJtowSOVhe83\nbD2hc01cfUoLZcy/0q4b6vq1/ldLUb/eEkpHcbpD9YkFzvwbxuITKc2LAoGAJ1pD\nywYdR9ij/0UkoDQp9qeqCGrd8JIbu9sKqgr3OSiPnWAuOfhSrCaCuVrbUFVH/T9T\ntuswnVPl2QHiGdY7LZ3aQaeyXDGqMGdiKO4ciehp7R21xyU4Ko8kaBESWKWMLSDg\nFoMCq1UuTyTbzdpjglW5p1Yo1DXvjGRbe0yAi7ECgYEAqw8y4/dv3LMwF4ZK++NQ\n8hVcZsG1kM/HZ0OSb1nclN2QVNTsPYF01HcXFWe4q9K8AqhmRXNy5vOnYG9Cg30Y\n+CdR/OZgWxLC5Jh66VMLdZmR4wzTucVn51IIaSTLzJujfx9ETTFGBdQwdM68Egso\njMBdn1Rq7Hv57EDE4Jw7Lys=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nuovopresto@nuovo-presto.iam.gserviceaccount.com",
+  "client_id": "111782774181079324623",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nuovopresto%40nuovo-presto.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
